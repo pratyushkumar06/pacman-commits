@@ -6,9 +6,9 @@ Turn a GitHub contribution graph into a Pac-Man board with a custom TypeScript g
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thepratyushkumar/pacman-commits/main/dist/pacman-contribution-game-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thepratyushkumar/pacman-commits/main/dist/pacman-contribution-game-light.svg">
-    <img alt="Pac-Man chomping through my GitHub contribution graph" src="https://raw.githubusercontent.com/thepratyushkumar/pacman-commits/main/dist/pacman-contribution-game-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratyushkumar06/pacman-commits/main/dist/pacman-contribution-game-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratyushkumar06/pacman-commits/main/dist/pacman-contribution-game-light.svg">
+    <img alt="Pac-Man chomping through my GitHub contribution graph" src="https://raw.githubusercontent.com/pratyushkumar06/pacman-commits/main/dist/pacman-contribution-game-dark.svg">
   </picture>
 </p>
 
@@ -32,9 +32,9 @@ The `<picture>` element serves the SVG that matches the viewer's GitHub theme:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thepratyushkumar/pacman-commits/main/dist/pacman-contribution-game-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thepratyushkumar/pacman-commits/main/dist/pacman-contribution-game-light.svg">
-    <img alt="Pac-Man chomping through my GitHub contribution graph" src="https://raw.githubusercontent.com/thepratyushkumar/pacman-commits/main/dist/pacman-contribution-game-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratyushkumar06/pacman-commits/main/dist/pacman-contribution-game-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratyushkumar06/pacman-commits/main/dist/pacman-contribution-game-light.svg">
+    <img alt="Pac-Man chomping through my GitHub contribution graph" src="https://raw.githubusercontent.com/pratyushkumar06/pacman-commits/main/dist/pacman-contribution-game-dark.svg">
   </picture>
 </p>
 ```
